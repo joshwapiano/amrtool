@@ -1,1 +1,2 @@
 # amrtool
+#### $ git clone
