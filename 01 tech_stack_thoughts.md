@@ -9,3 +9,5 @@ For access by the customer this would need to be published, potentially using [n
 
 As recommended in [this blog](http://buklijas.info/blog/2018/10/01/making-web-apps-with-jupyter-notebook/) could be achieved using [appmode](https://github.com/oschuett/appmode) which is
 a Jupyter extension that turns notebooks in to webapps, and then [binder](https://mybinder.org/) to access as a webpage by customers.
+
+"Binder uses the BinderHub technology to generate a Docker image from this repository. The image will have all the components that you specify along with the Jupyter Notebooks inside. You will be able to share a URL with users that can immediately begin interacting with this environment via the cloud. Binder’s goal is to enable as many analytic workflows as possible."
