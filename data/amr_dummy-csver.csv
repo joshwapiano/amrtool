@@ -1,0 +1,17 @@
+identifyer,date_data,Historic,indicator,country,county,village_group,village,Latitude,Longitude,knowledge_a,knowledge_b,antibiotics_a,antibiotics_b,access_a,access_b,income_a,income_b
+1,20/11/2018,0,S,kenya,Kajiado,1,Oluseryan,-4.001,39.002,0,0,1,1,0,1,0.3,2
+2,20/11/2018,0,S,kenya,Kajiado,1,Oluseryan,-4.001,39.002,1,0,0,1,1,0,0.8,4
+3,20/11/2018,0,S,kenya,Kajiado,1,Oluseryan,-4.001,39.002,1,1,1,0,1,1,0.2,2
+10001,20/11/2018,0,M,kenya,Kajiado,1,Oluseryan,-4.001,39.002,0.666666667,1.333333333,0.666666667,0.666666667,0.666666667,0.666666667,0.433333333,2.666666667
+4,20/11/2018,0,S,kenya,Kajiado,2,Kilonito,0.003,37.402,0,1,0,1,0,1,0.1,1
+5,20/11/2018,0,S,kenya,Kajiado,2,Kilonito,0.003,37.402,0,0,1,1,0,1,0.5,0
+6,20/11/2018,0,S,kenya,Kajiado,2,Kilonito,0.003,37.402,1,1,0,0,0,1,0.4,2
+10002,20/11/2018,0,M,kenya,Kajiado,2,Kilonito,0.003,37.402,0.333333333,0.666666667,0.333333333,0.666666667,0,1,0.333333333,1
+209,19/10/1999,1,S,kenya,Kajiado,1,Oluseryan,-4.001,39.002,1,0,1,0,1,1,0.2,1
+210,19/10/1999,1,S,kenya,Kajiado,1,Oluseryan,-4.001,39.002,0,0,0,1,1,0,0.4,3
+211,19/10/1999,1,S,kenya,Kajiado,1,Oluseryan,-4.001,39.002,1,0,1,1,0,1,0.2,4
+10003,19/10/1999,1,M,kenya,Kajiado,1,Oluseryan,-4.001,39.002,0.666666667,0,0.666666667,0.666666667,0.666666667,0.666666667,0.266666667,2.666666667
+212,19/10/1999,1,S,kenya,Kajiado,2,Kilonito,0.003,37.402,1,1,0,1,0,1,0.3,2
+213,19/10/1999,1,S,kenya,Kajiado,2,Kilonito,0.003,37.402,0,1,0,1,0,1,0.2,1
+214,19/10/1999,1,S,kenya,Kajiado,2,Kilonito,0.003,37.402,1,1,1,0,1,2,0.1,2
+10004,19/10/1999,1,M,kenya,Kajiado,2,Kilonito,0.003,37.402,0.666666667,1,0.333333333,0.666666667,0.333333333,1.333333333,0.2,1.666666667
