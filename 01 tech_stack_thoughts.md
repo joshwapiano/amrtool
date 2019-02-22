@@ -9,5 +9,14 @@ For access by the customer this would need to be published, potentially using [n
 
 As recommended in [this blog](http://buklijas.info/blog/2018/10/01/making-web-apps-with-jupyter-notebook/) could be achieved using [appmode](https://github.com/oschuett/appmode) which is
 a Jupyter extension that turns notebooks in to webapps, and then [binder](https://mybinder.org/) to access as a webpage by customers.
+To open in 'appmode' automatically on Binder need to change the Binder url by [placing `"%2Fapp%2F"` before the path to the Jupyter notebook in the urlpath.](https://github.com/oschuett/appmode/issues/13) E.g. https://mybinder.org/v2/gh/JuanCab/AstroInteractives/master?filepath=Interactive_HR_Diagram.ipynb becomes https://mybinder.org/v2/gh/JuanCab/AstroInteractives/master?urlpath=%2Fapps%2FInteractive_HR_Diagram.ipynb
+
+According to same page:
+If you want to use mybinder add the following environment.yml file to your repository:
+
+channels:
+  - conda-forge
+dependencies:
+  - appmode
 
 "Binder uses the BinderHub technology to generate a Docker image from this repository. The image will have all the components that you specify along with the Jupyter Notebooks inside. You will be able to share a URL with users that can immediately begin interacting with this environment via the cloud. Binder’s goal is to enable as many analytic workflows as possible."
