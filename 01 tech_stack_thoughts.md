@@ -19,4 +19,6 @@ channels:
 dependencies:
   - appmode
 
+[See this for appmode in Binder too](https://github.com/binder-examples/appmode)
+
 "Binder uses the BinderHub technology to generate a Docker image from this repository. The image will have all the components that you specify along with the Jupyter Notebooks inside. You will be able to share a URL with users that can immediately begin interacting with this environment via the cloud. Binder’s goal is to enable as many analytic workflows as possible."
