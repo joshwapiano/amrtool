@@ -21,4 +21,7 @@ dependencies:
 
 [See this for appmode in Binder too](https://github.com/binder-examples/appmode)
 
+Example Binder link to Notebook - https://mybinder.org/v2/gh/joshwapiano/amrtool/master?filepath=pandas_df_testing_01.ipynb
+Example Binder link to appmode Notebook - https://mybinder.org/v2/gh/joshwapiano/amrtool/master?urlpath=%2Fapps%2Fpandas_df_testing_01.ipynb
+
 "Binder uses the BinderHub technology to generate a Docker image from this repository. The image will have all the components that you specify along with the Jupyter Notebooks inside. You will be able to share a URL with users that can immediately begin interacting with this environment via the cloud. Binder’s goal is to enable as many analytic workflows as possible."
